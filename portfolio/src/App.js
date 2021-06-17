@@ -7,16 +7,15 @@ import Projects from './pages/Projects';
 import Contact from './pages/Contact';
 import Home from './pages/Home';
 import 'bootstrap/dist/css/bootstrap.min.css';
-
+    /*<Route exact path="/" component={Home}></Route>
+      <Route exact path="/contact" component={Contact}></Route>
+      <Route exact path="/projects" component={Projects}></Route> */
 function App() {
   return (
     <>
     <Router>
       <div>
-      <Header/>
-      {/* <Route exact path="/" component={Home}></Route>
-      <Route exact path="/contact" component={Contact}></Route>
-      <Route exact path="/projects" component={Projects}></Route> */}
+      <Header/>   
       <Switch>
       <Route exact path='/'><Home/></Route>
       <Route exact path='/contact'><Contact/></Route>
