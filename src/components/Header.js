@@ -10,9 +10,9 @@ function Header(props) {
                 <Navbar.Toggle aria-controls="basic-navbar-nav" />
                 <Navbar.Collapse id="basic-navbar-nav">
                     <Nav className="mr-auto">
-                        <Nav.Link href="/" style={{fontFamily: 'Marck Script, cursive', fontWeight: '570'}}>About Me</Nav.Link>
-                        <Nav.Link href="/contact" style={{fontFamily: 'Marck Script, cursive', fontWeight: '570'}}>Contact</Nav.Link>
-                        <Nav.Link href="/projects" style={{fontFamily: 'Marck Script, cursive', fontWeight: '570'}}>Projects</Nav.Link>
+                        <Nav.Link href="/#/" style={{fontFamily: 'Marck Script, cursive', fontWeight: '570'}}>About Me</Nav.Link>
+                        <Nav.Link href="/#/contact" style={{fontFamily: 'Marck Script, cursive', fontWeight: '570'}}>Contact</Nav.Link>
+                        <Nav.Link href="/#/projects" style={{fontFamily: 'Marck Script, cursive', fontWeight: '570'}}>Projects</Nav.Link>
                     </Nav>
                 </Navbar.Collapse>
             </Navbar>
