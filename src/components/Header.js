@@ -11,8 +11,8 @@ function Header(props) {
                 <Navbar.Collapse id="basic-navbar-nav">
                     <Nav className="mr-auto">
                         <Nav.Link href="/react-portfolio/#/" style={{fontFamily: 'Marck Script, cursive', fontWeight: '570'}}>About Me</Nav.Link>
-                        <Nav.Link href="/react-portfolio/#/" style={{fontFamily: 'Marck Script, cursive', fontWeight: '570'}}>Contact</Nav.Link>
-                        <Nav.Link href="/react-portfolio/#/" style={{fontFamily: 'Marck Script, cursive', fontWeight: '570'}}>Projects</Nav.Link>
+                        <Nav.Link href="/react-portfolio/#/contact" style={{fontFamily: 'Marck Script, cursive', fontWeight: '570'}}>Contact</Nav.Link>
+                        <Nav.Link href="/react-portfolio/#/projects" style={{fontFamily: 'Marck Script, cursive', fontWeight: '570'}}>Projects</Nav.Link>
                     </Nav>
                 </Navbar.Collapse>
             </Navbar>
