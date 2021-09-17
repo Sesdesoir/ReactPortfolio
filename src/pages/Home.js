@@ -50,7 +50,7 @@ function Home(props) {
                             <Card.Text>
                                 <p>I studied french for 6 years. I am out of practice and have lost a lot of language, but still capable of reading and a decent amount of comprehension.</p>
                                 <p>I don't really watch movies or tv/netflix/hulu etc. My time is spent on working, my hobbies, coding and friends.</p>
-                                <p>I have a digital badge for my  <a href="https://www.credly.com/badges/69c36e5a-1d36-4afe-8aac-464eb880f591/public_url">Bootcamp accomplishments</a>
+                                <p>I have a digital badge for my  <a href="https://www.credly.com/badges/69c36e5a-1d36-4afe-8aac-464eb880f591/public_url">Bootcamp accomplishments</a></p>
                                 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="69c36e5a-1d36-4afe-8aac-464eb880f591" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
                             </Card.Text>
                         </Card.Body> 
