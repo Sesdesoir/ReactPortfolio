@@ -11,7 +11,7 @@ function Home(props) {
     
     return (
         <>
-            <Container style={{backgroundImage: `url(${music})` , backgroundSize: 'cover', backgroundAttachment: 'fixed', backgroundRepeat: 'no-repeat', width:'100vw', height: '100vh', maxWidth: '100vw'}}>
+            <Container style={{backgroundImage: `url(${music})` , backgroundSize: 'cover', backgroundAttachment: 'fixed', backgroundRepeat: 'no-repeat', width:'100vw', height: '110vh', maxWidth: '100vw'}}>
                 <Row>
                     <Col md={4}>
                     <Card style={{ width: '18rem', backgroundColor: 'rgb(217,170,122, .5)'}}>
